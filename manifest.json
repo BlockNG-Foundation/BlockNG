@@ -1,0 +1,24 @@
+{
+  "short_name": "BlockNG",
+  "name": "BlockNG",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg"
+    },
+    {
+      "src": "logo192.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.svg",
+      "type": "image/svg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
